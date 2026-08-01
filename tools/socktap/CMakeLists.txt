@@ -9,6 +9,7 @@ add_executable(socktap
     application.cpp
     benchmark_application.cpp
     cam_application.cpp
+    csv_position_provider.cpp
     dcc_passthrough.cpp
     ethernet_device.cpp
     hello_application.cpp
